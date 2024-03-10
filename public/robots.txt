@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://hindihighlights.in
+
+# Sitemaps
+Sitemap: https://hindihighlights.in/sitemap.xml
