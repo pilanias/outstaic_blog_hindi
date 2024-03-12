@@ -6,6 +6,7 @@ publishedAt: "2023-11-10"
 updatedAt: "2023-11-10"
 author: "dinesh siddh"
 isPublished: true
+url: "staybhama"
 tags: 
 - movie 
 - kajal

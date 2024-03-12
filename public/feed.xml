@@ -4,7 +4,7 @@
         <title>A blog about new technology and updates for daily life</title>
         <link>https://hindihighlights.in</link>
         <description>A blog about new technology and updates for daily life. here we will disscuss about new technology and life style.</description>
-        <lastBuildDate>Tue, 12 Mar 2024 03:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 10:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>hi-IN</language>
@@ -14,15 +14,6 @@
             <link>https://hindihighlights.in</link>
         </image>
         <copyright>all rights reserved</copyright>
-        <item>
-            <title><![CDATA[BIGG BOSS में ये ORRY कौन है? कैसे ये सभी बॉलीवुड की एक्ट्रेस का बेस्टफ्रेंड बना,आइये जानते है orry क्या काम करता है?]]></title>
-            <link>https://hindihighlights.in/blogs/bigboss-orry</link>
-            <guid>https://hindihighlights.in/blogs/bigboss-orry</guid>
-            <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
-            <author>dineshsiddh2001@gmail.com (Dinesh siddh)</author>
-            <category>BIG BOSS</category>
-            <enclosure url="https://hindihighlights.in/blogs/bigboss-orry/cover.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Virat Kohli ka Birthday - देखिए कुछ इस तरह सेलिब्रेट करते है विराट कोहली अपना जन्मदिन, विराट का अपने Birthday पर फैन्स को तोहफा]]></title>
             <link>https://hindihighlights.in/blogs/birthday-virat-kohli</link>
@@ -100,16 +91,6 @@
             <author>dineshsiddh2001@gmail.com (Dinesh siddh)</author>
             <category>gov portal</category>
             <enclosure url="https://hindihighlights.in/blogs/shala-darpan-portal/cover.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ Satyabhama Movie Teaser out today]]></title>
-            <link>https://hindihighlights.in/blogs/styabhama-movie-teaser</link>
-            <guid>https://hindihighlights.in/blogs/styabhama-movie-teaser</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <author>dineshsiddh2001@gmail.com (Dinesh siddh)</author>
-            <category>movie</category>
-            <category>kajal</category>
-            <enclosure url="https://hindihighlights.in/blogs/styabhama-movie-teaser/cover.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

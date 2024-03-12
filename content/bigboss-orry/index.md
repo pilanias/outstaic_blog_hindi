@@ -6,6 +6,7 @@ publishedAt: "2023-11-25"
 updatedAt: "2023-11-25"
 author: "dinesh siddh"
 isPublished: true
+url: "bigg-boss"
 tags: 
 - BIG BOSS
 ---
