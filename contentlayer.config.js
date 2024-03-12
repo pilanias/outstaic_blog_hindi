@@ -8,8 +8,8 @@ import GithubSlugger from "github-slugger"
 
 const Blog = defineDocumentType(() => ({
   name: "Blog",
-  filePathPattern: "**/**/*.mdx",
-  contentType: "mdx",
+  filePathPattern: "**/**/*.md",
+  contentType: "md",
   fields: {
     title: {
       type: "string",
